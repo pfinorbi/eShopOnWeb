@@ -10,7 +10,7 @@ env:
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: d6bce394-f134-4bb0-891e-3c7ae01e86f5
   WEBAPP-NAME: az400-webapp-norbi1985
-  WEBAPP-SKU: f1
+  WEBAPP-SKU: b1
 
 
 jobs:
