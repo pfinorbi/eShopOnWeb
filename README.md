@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/pfinorbi-esi-az400/02dd3a41-027f-4e28-845b-ae2c34a4decd/101132e4-87b7-4d02-98d5-4aa86a1d3b4d/_apis/work/boardbadge/9dca555e-86cb-480c-abc0-47c57a032216)](https://dev.azure.com/pfinorbi-esi-az400/02dd3a41-027f-4e28-845b-ae2c34a4decd/_boards/board/t/101132e4-87b7-4d02-98d5-4aa86a1d3b4d/Microsoft.RequirementCategory)
 [![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
